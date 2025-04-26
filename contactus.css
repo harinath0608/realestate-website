@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact-title {
+    color: #B43F3F;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 8px;
+    background-color: white;
+  }
+  
+  .form-control {
+    border-radius: 4px;
+  }
+  
+  .submit-btn {
+    background-color: #B43F3F;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .submit-btn:hover {
+    background-color: #ffffff;
+  }
+  .team {
+    text-decoration: underline;
+    text-align: center;
+  }
+  .founder {
+    text-align: center;
+    color: #B43F3F
+  }
